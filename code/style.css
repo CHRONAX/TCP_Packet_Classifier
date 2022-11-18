@@ -1,0 +1,39 @@
+/* div.css-6qob1r.e1fqkh3o3{
+    background-color: #000;
+} */
+
+
+
+
+.stButton > button{
+    border: 2px;
+    border-style: outset;
+    background-color: #212121;
+}
+
+div[data-testid="stHorizontalBlock"]> div:first-of-type{
+    background-color: #043552;
+    border: 2px solid #EEEEEEEE;
+    padding: 20px 20px 20px 70px;
+    border-radius: 20px;
+    font-family: 'Georgia', serif;
+    font-size: 20px;
+    color: #EEEEEEEE;
+    font-weight: 700;
+    align-content: center;
+}
+
+div[data-testid="stHorizontalBlock"]> div:last-of-type{
+    background-color: #ff4f4f;
+    border: 2px solid #EEEEEEEE;
+    padding: 20px 20px 20px 70px;
+    border-radius: 20px;
+    font-family: 'Georgia', serif;
+    font-size: 20px;
+    color: #EEEEEEEE;
+    font-weight: 700;
+    align-content: center;
+}
+
+
+
